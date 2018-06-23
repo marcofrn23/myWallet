@@ -5,7 +5,7 @@ A simple software for investment portfolios management. It can take data from in
 IT++
 
 ## Installing and linking IT++
-MacOS installation (it will be put in /usr/local/Cellar): 
+MacOS installation (it will be put into /usr/local/Cellar): 
 ```
 $ brew install itpp
 ```
