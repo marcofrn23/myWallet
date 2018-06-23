@@ -13,11 +13,12 @@ public:
     void set_covariance(double newval, int pos1, int pos2) {covariance[pos1][pos2] = newval;};
     void display();
     void display_info();
-    string name;
+    string name = "Market";
 
     // METODI DI INTERFACCIA
     vec get_assets();
     mat get_covariance();
+    unsigned get_length();
 
 private:
     void get_file_format(string);
