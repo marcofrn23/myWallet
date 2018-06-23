@@ -15,6 +15,6 @@ $ g++ mywallet.cpp -o mywallet -L. -litpp
 ```
 ---
 ***Project for "Object Oriented Programming" held by Prof. P.Zingaretti at UNIVPM, Italy.***
-**Emanuele Palumbo, Marco Fringuelli.
+**Emanuele Palumbo, Marco Fringuelli**.
 
 
