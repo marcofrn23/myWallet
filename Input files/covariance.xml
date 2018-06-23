@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<covariancematrix>
+    <row>
+        <elem>0.5</elem>
+        <elem>0.0</elem>
+        <elem>0.0</elem>
+        <elem>0.0</elem>
+    </row>
+    <row>
+        <elem>0.0</elem>
+        <elem>0.2</elem>
+        <elem>0.0</elem>
+        <elem>0.0</elem>
+    </row>
+    <row>
+        <elem>0.0</elem>
+        <elem>0.0</elem>
+        <elem>0.1</elem>
+        <elem>0.0</elem>
+    </row>
+    <row>
+        <elem>0.0</elem>
+        <elem>0.0</elem>
+        <elem>0.0</elem>
+        <elem>0.7</elem>
+    </row>
+</covariancematrix>

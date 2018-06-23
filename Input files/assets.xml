@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<market>
+    <asset>
+        <expr>0.4</expr>
+    </asset>
+    <asset>
+        <expr>0.2</expr>
+    </asset>
+    <asset>
+        <expr>0.1</expr>
+    </asset>
+    <asset>
+        <expr>0.35</expr>
+    </asset>     
+</market>
