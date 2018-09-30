@@ -1,5 +1,5 @@
 IMPORTANT!
 
-The software is able to get data from files with a structure analog to the ones showed.
+The software is able to get data from files with a structure analogous to the ones showed.
 It must always have available a file of "assets" and a file of "covariance" of the same format (.txt, .csv, .xml)
 otherwise it would raise an error.
